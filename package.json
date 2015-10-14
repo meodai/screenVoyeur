@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/meodai/screenVoyeur/issues"
   },
-  "homepage": "https://github.com/meodai/screenVoyeur#readme"
+  "homepage": "https://github.com/meodai/screenVoyeur#readme",
+  "devDependencies": {
+    "jquery": "^2.1.4"
+  }
 }
