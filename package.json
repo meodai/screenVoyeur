@@ -1,0 +1,24 @@
+{
+  "name": "screen-voyeur",
+  "version": "0.1.0",
+  "description": "always know what element is in scroll range",
+  "main": "screen-voyeur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/screenVoyeur.git"
+  },
+  "keywords": [
+    "scroll",
+    "raf",
+    "metrics"
+  ],
+  "author": "meodai <meodai@gmail.com> (https://github.com/meodai/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/screenVoyeur/issues"
+  },
+  "homepage": "https://github.com/meodai/screenVoyeur#readme"
+}
